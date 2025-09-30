@@ -1,5 +1,5 @@
 ### AECM
-AECM: Attention-Enhanced Cross-Modality Image and Unpaired Video Translation with Vision Transformers
+AECM: Attention-Enhanced Cross-Modality for Aerial Image and Video Translation with Vision Transformers
 
 ### Availability of Datasets
 ```
