@@ -21,7 +21,7 @@ import datetime
 from torchvision.transforms import transforms as tfs
 
 
-class ATENModel(BaseModel):
+class AECMDOUBLEModel(BaseModel):
 
     @staticmethod
     def modify_commandline_options(parser, is_train=True):
