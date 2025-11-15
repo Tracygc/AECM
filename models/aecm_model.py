@@ -33,7 +33,7 @@ class Normalize(nn.Module):
         return out
 
 
-class ATENCCPLVITCUTModel(BaseModel):
+class AECMModel(BaseModel):
 
     @staticmethod
     def modify_commandline_options(parser, is_train=True):
