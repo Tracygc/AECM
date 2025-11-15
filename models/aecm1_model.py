@@ -25,7 +25,7 @@ class Normalize(nn.Module):
         out = x.div(norm + 1e-7)
         return out
 
-class AECM1Model(BaseModel):
+class AECMDOUBLEModel(BaseModel):
 
     @staticmethod
     def modify_commandline_options(parser, is_train=True):
