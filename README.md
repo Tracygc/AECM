@@ -23,6 +23,13 @@ Pytorch 1.8.0, torchvison 0.9.0
 Tensorboard, TensorboardX, Pyyaml, Pillow, dominate, visdom, timm
 ```
 
+```
+conda create translation python=3.13
+conda activate translation
+pip install --pre torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/nightly/cu128 -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+```
+
 ### Python
 ```
 # Train for video mode
